@@ -40,4 +40,4 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 ###told to add this by heroku
-ruby "2.1.1"
+ruby "2.0.0"
